@@ -17,6 +17,7 @@ Kuppiya is a collaborative learning platform where students can share coding que
 
 kuppiya-web.netlify.app
 
+
 ---
 
 # 🧪 Environment Variables
