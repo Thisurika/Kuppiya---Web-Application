@@ -8,6 +8,7 @@
   <strong>Share Knowledge. Solve Problems. Learn Together.</strong>
 </p>
 
+
 Kuppiya is a collaborative learning platform where students can share coding questions, solve programming challenges, run code directly in the platform, join live mentoring sessions, and contribute educational resources to help others learn.
 
 ---
